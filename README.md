@@ -1,1 +1,1 @@
-"# GG" 
+Beer Filling Game
